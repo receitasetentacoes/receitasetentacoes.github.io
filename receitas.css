@@ -1,0 +1,320 @@
+body{
+    background-color: red;
+}
+
+*{
+    margin: 0 auto;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family:'Open Sans',sans-serif;
+    color: rgb(255, 255, 255);
+}
+
+#menu li a:hover{
+    background-color: rgb(187, 0, 0);
+}
+
+#menu{
+    list-style-type: none;
+    padding: 0;
+    background-color: black;
+}
+
+#menu li{
+    display: inline;
+}
+
+#menu li a{
+    padding: 20px;
+    display: inline-block;
+    text-decoration: none;
+    
+
+}
+
+#menu li:last-child a{
+    float:right;
+    background-color: rgb(187, 0, 0);
+}
+
+.bannerbolo1{
+    background-image: url(c1decdc8965b6787245780e3ccc032d6.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 300px;
+}
+
+.card{
+    width: 600px;
+    margin: auto;
+    background-color: rgb(0, 0, 0);
+    padding: 20px;
+    margin-top: 50px;
+    border-radius: 10px;
+    
+}
+
+h1{
+    font-weight: 300;
+    font-size: 25px;
+}
+
+.titulobolo1{
+    color: rgb(255, 0, 0);
+    text-decoration-line: underline;
+}
+
+.card li{
+    list-style-position: inside;
+    line-height: 40px;
+    
+}
+
+.bannerbolo2{
+    background-image: url(bab60e4f5e4bc698d24ae0bc0d4f3010.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 300px;
+}
+
+.bannerbolo3{
+    background-image: url(lemon-cake-8274419_1280.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 300px;
+}
+
+.bannercoxinha1{
+    background-image: url(hq720.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 300px;
+}
+
+.card{
+    width: 600px;
+    margin: auto;
+    background-color: rgb(0, 0, 0);
+    padding: 20px;
+    margin-top: 50px;
+    border-radius: 10px;
+    
+}
+
+h1{
+    font-weight: 300;
+    font-size: 25px;
+}
+
+.titulocoxinha1{
+    color: rgb(255, 0, 0);
+    text-decoration-line: underline;
+}
+
+.card li{
+    list-style-position: inside;
+    line-height: 40px;
+    
+}
+
+.bannercoxinha2{
+    background-image: url(maxresdefault.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 300px;
+}
+
+.bannercoxinha3{
+    background-image: url(14db7c4d06eb4ad679e4fda517b05f08.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 300px;
+}
+
+.bannerpizza1{
+    background-image: url(sddefault.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 300px;
+}
+
+.card{
+    width: 600px;
+    margin: auto;
+    background-color: rgb(0, 0, 0);
+    padding: 20px;
+    margin-top: 50px;
+    border-radius: 10px;
+    
+}
+
+h1{
+    font-weight: 300;
+    font-size: 25px;
+}
+
+.titulopizza1{
+    color: rgb(255, 0, 0);
+    text-decoration-line: underline;
+}
+
+.card li{
+    list-style-position: inside;
+    line-height: 40px;
+    
+}
+
+.bannerpizza2{
+    background-image: url(hq720\ \(1\).jpg);
+    background-position: center;
+    background-size: cover;
+    height: 300px;
+}
+
+.bannerpizza3{
+    background-image: url(sddefault\ \(1\).jpg);
+    background-position: center;
+    background-size: cover;
+    height: 300px;
+}
+
+.bannersushi1{
+    background-image: url(pexels-pedrofurtadoo-28992232.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 300px;
+}
+
+.card{
+    width: 600px;
+    margin: auto;
+    background-color: rgb(0, 0, 0);
+    padding: 20px;
+    margin-top: 50px;
+    border-radius: 10px;
+    
+}
+
+h1{
+    font-weight: 300;
+    font-size: 25px;
+}
+
+.titulosushi1{
+    color: rgb(255, 0, 0);
+    text-decoration-line: underline;
+}
+
+.card li{
+    list-style-position: inside;
+    line-height: 40px;
+    
+}
+
+.bannersushi2{
+    background-image: url(pexels-yang-hao-155871170-10692535.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 300px;
+}
+
+.bannersushi3{
+    background-image: url(pexels-katty-frank-93674281-11661143.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 300px;
+}
+
+.bannercomidamexicana1{
+    background-image: url(pexels-nishantaneja-2955819.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 300px;
+}
+
+.card{
+    width: 600px;
+    margin: auto;
+    background-color: rgb(0, 0, 0);
+    padding: 20px;
+    margin-top: 50px;
+    border-radius: 10px;
+    
+}
+
+h1{
+    font-weight: 300;
+    font-size: 25px;
+}
+
+.titulocomidamexicana1{
+    color: rgb(255, 0, 0);
+    text-decoration-line: underline;
+}
+
+.card li{
+    list-style-position: inside;
+    line-height: 40px;
+    
+}
+
+.bannercomidamexicana2{
+    background-image: url(pexels-rdne-8523508.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 300px;
+}
+
+.bannercomidamexicana3{
+    background-image: url(pexels-caricatte-2338015.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 300px;
+}
+
+.bannercomidaarabe1{
+    background-image: url(pexels-n-voitkevich-6275179.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 300px;
+}
+
+.card{
+    width: 600px;
+    margin: auto;
+    background-color: rgb(0, 0, 0);
+    padding: 20px;
+    margin-top: 50px;
+    border-radius: 10px;
+    
+}
+
+h1{
+    font-weight: 300;
+    font-size: 25px;
+}
+
+.titulocomidaarabe1{
+    color: rgb(255, 0, 0);
+    text-decoration-line: underline;
+}
+
+.card li{
+    list-style-position: inside;
+    line-height: 40px;
+    
+}
+
+.bannercomidaarabe2{
+    background-image: url(pexels-paggiarofrancesco-604660.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 300px;
+}
+
+.bannercomidaarabe3{
+    background-image: url(esfiha-1968008_1280.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 300px;
+}

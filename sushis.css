@@ -1,0 +1,86 @@
+
+body{
+    background-color: red;
+}
+
+*{
+    margin: 0 auto;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family:'Open Sans',sans-serif;
+    color: rgb(255, 255, 255);
+}
+
+#menu li a:hover{
+    background-color: rgb(187, 0, 0);
+}
+
+#menu{
+    list-style-type: none;
+    padding: 0;
+    background-color: black;
+}
+
+#menu li{
+    display: inline;
+}
+
+#menu li a{
+    padding: 20px;
+    display: inline-block;
+    text-decoration: none;
+    
+
+}
+
+#menu li:last-child a{
+    float:right;
+    background-color: rgb(187, 0, 0);
+}
+
+.bannersushi1{
+    background-image: url(pexels-pedrofurtadoo-28992232.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 300px;
+}
+
+.card{
+    width: 600px;
+    margin: auto;
+    background-color: rgb(0, 0, 0);
+    padding: 20px;
+    margin-top: 50px;
+    border-radius: 10px;
+    
+}
+
+h1{
+    font-weight: 300;
+    font-size: 25px;
+}
+
+.titulosushi1{
+    color: rgb(255, 0, 0);
+    text-decoration-line: underline;
+}
+
+.card li{
+    list-style-position: inside;
+    line-height: 40px;
+    
+}
+
+.bannersushi2{
+    background-image: url(pexels-yang-hao-155871170-10692535.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 300px;
+}
+
+.bannersushi3{
+    background-image: url(pexels-katty-frank-93674281-11661143.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 300px;
+}
